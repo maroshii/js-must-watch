@@ -36,7 +36,7 @@
 	* [Part 2](http://vimeo.com/35924733) [15:41]
 	* [Part 3](http://vimeo.com/35990666) [33:32]
 1. [John-David Dalton: **Lo-Dash**](https://www.youtube.com/watch?v=dpPy4f_SeEk) [25:08]
-1. [Gary Bernhardt: **WAT**](https://www.destroyallsoftware.com/talks/wat) [4:17]
+1. [Gary Bernhardt: **~~WAT~~**](https://www.destroyallsoftware.com/talks/wat) [4:17]
 1. [Angus Croll: **Break all the rules**](https://www.youtube.com/watch?v=MFtijdklZDo) [31:29]
 1. [Nicholas Zakas: **Maintainable JavaScript**](https://www.youtube.com/watch?v=c-kav7Tf834) [47:04]
 
